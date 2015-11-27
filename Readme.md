@@ -2,9 +2,7 @@
 
 This is a project that we originally did as homework. The instructor later showed us his technique for validating forms in Angular. For practice I will try to mimic his code and see if I can create a method for validating forms to use in future Angular projects.
 
-Angular 
-Sass
-HTML
+https://ang-formval.surge.sh/
 
 ## Usage
 

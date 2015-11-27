@@ -1,7 +1,10 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
+This is a project that we originally did as homework. The instructor later showed us his technique for validating forms in Angular. For practice I will try to mimic his code and see if I can create a method for validating forms to use in future Angular projects.
 
+Angular 
+Sass
+HTML
 
 ## Usage
 

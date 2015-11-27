@@ -1,6 +1,9 @@
-// Put any @imports here
-// See Readme for a list of supported ones
+@import 'foundation';
 
 body {
   background: #e2ebf3;
+}
+.container {
+  width: 60%;
+  margin: 6% auto;
 }
